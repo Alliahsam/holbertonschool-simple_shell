@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * print_prompt - Function that prints $.
+ * print_prompt - Function prints $.
  *
  */
 void print_prompt(void)
