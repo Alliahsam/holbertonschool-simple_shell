@@ -1,5 +1,3 @@
-# holbertonschool-simple_shell
-=======
 # My Shell
 ***
 ## Description
@@ -48,4 +46,3 @@ $ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 
 Hanane ARRAHMANI - https://github.com/  
 Samira OULED - https://github.com/
->>>>>>> 9c9ecadbfd22f2f48ed4ccf1863823f74113b913
