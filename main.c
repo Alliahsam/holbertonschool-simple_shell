@@ -14,6 +14,7 @@ int main(int argc, char **argv)
 		print_prompt();
 		cmd = read_cmd();
 
+
 		if(!cmd)
 		{
 			exit(EXIT_SUCCESS);
