@@ -8,11 +8,12 @@
 int main(int argc, char **argv)
 {
 	char *cmd;
+	
+	print_prompt();                                                                                                                                                                                                                   
+	cmd = read_cmd();
 
 	do
 	{
-		print_prompt();
-		cmd = read_cmd();
 
 
 		if(!cmd)
@@ -103,4 +104,3 @@ char *read_cmd(void)
     free(line);
     return ptr;
 }
-

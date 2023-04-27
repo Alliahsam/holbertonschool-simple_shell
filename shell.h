@@ -9,7 +9,10 @@
 #include <sys/types.h>
 #include <unistd.h>
 #include <errno.h>
+#include <unistd.h>
 
 void print_prompt(void);
+char *read_cmd(void);
+int main(int argc, char **argv);
 
 #endif
