@@ -11,23 +11,14 @@ simple shell project
 .B shell [command][arguments]...
 
 .SH DESCRIPTION
-Shell is the standard command interpreter for the system.
- (Simple Shell is a command interpreter that is an infinite loop in C that reads what the user types in the promp and performs the appropriate actions. The programme reads, parses, and executes the called on command.)
+Shell is the standard command interpreter for the system. In this shell the prompt is displayed and waits for the user's command.
 
-.P
-“Exit” is a built-in command that ends the program.
 
 .SH FILES
-(shell.h, simple.c, strat.c, pront.c, func_tok.c, func_control.c, path.c, free_tab.c, exit.c, fin.c, _strcat.c, _strcmp.c, _strcpy.c, _strdup.c)
+shell.h, main.c, prompt.c, README.md.
 
-.SH EXAMPLES
-input:
-.IP ls
-
-output: the list of files in the current working directory
-
-.SH SEE ALSO
-bash(1), exit(2)
+.SH EXEMPLE
+output: "$ "
 
 .SH AUTHORS
 OULED Samira & ARRAHMANI Hanane.
