@@ -1,5 +1,8 @@
 # My Shell
 ***
+<img width="592" alt="flowchart shell" src="https://user-images.githubusercontent.com/79006648/235121497-6bc08db8-823a-4b71-82eb-444efd8008d0.png">
+
+
 ## Description
 
 What is the shell? 
